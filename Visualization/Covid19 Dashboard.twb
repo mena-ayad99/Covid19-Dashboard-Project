@@ -2473,8 +2473,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1600' minheight='1600' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='31' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98142' id='30' param='vert' w='99034' x='483' y='929'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='33' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98142' id='32' param='vert' w='99034' x='483' y='929'>
                 <zone fixed-size='280' h='57403' id='5' is-fixed='true' name='Cases/deaths' w='27399' x='483' y='929'>
                   <layout-cache fixed-size-h='8865' fixed-size-w='533' type-h='fixed' type-w='fixed' />
                   <zone-style>
@@ -2750,7 +2750,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='11' />
+      <active id='15' />
       <simple-id uuid='{76622C2F-AFED-4A82-800C-63B957CC5D0D}' />
     </window>
   </windows>
